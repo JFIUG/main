@@ -49,7 +49,7 @@ header li a {
 /* ********************* principle image ****************** */
 #imagePrincipale {
     padding-top: 60px;
-    background: url(72d2f104dedf26594067b0dfd0f04f8b.png) no-repeat fixed 50% 50%;
+    background: url(../72d2f104dedf26594067b0dfd0f04f8b.png) no-repeat fixed 50% 50%;
     background-size: cover;
     height: 799px;
 }
